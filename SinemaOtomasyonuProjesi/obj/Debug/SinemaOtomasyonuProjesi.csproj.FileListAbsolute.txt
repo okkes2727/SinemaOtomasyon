@@ -1,0 +1,62 @@
+C:\Users\okkes\OneDrive\Masaüstü\Projelerim\SinemaOtomasyonuProjesi\bin\Debug\SinemaOtomasyonuProjesi.exe.config
+C:\Users\okkes\OneDrive\Masaüstü\Projelerim\SinemaOtomasyonuProjesi\bin\Debug\SinemaOtomasyonuProjesi.exe
+C:\Users\okkes\OneDrive\Masaüstü\Projelerim\SinemaOtomasyonuProjesi\bin\Debug\SinemaOtomasyonuProjesi.pdb
+C:\Users\okkes\OneDrive\Masaüstü\Projelerim\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.csproj.AssemblyReference.cache
+C:\Users\okkes\OneDrive\Masaüstü\Projelerim\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.Form1.resources
+C:\Users\okkes\OneDrive\Masaüstü\Projelerim\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.Properties.Resources.resources
+C:\Users\okkes\OneDrive\Masaüstü\Projelerim\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.csproj.GenerateResource.cache
+C:\Users\okkes\OneDrive\Masaüstü\Projelerim\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.csproj.CoreCompileInputs.cache
+C:\Users\okkes\OneDrive\Masaüstü\Projelerim\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.exe
+C:\Users\okkes\OneDrive\Masaüstü\Projelerim\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.pdb
+C:\Users\okkes\OneDrive\Masaüstü\Projelerim\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.BiletSatisFormu.resources
+C:\Users\okkes\OneDrive\Masaüstü\Projelerim\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.FilmYonetimiFormu.resources
+C:\Users\okkes\OneDrive\Masaüstü\Projelerim\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.SalonYonetimiFormu.resources
+C:\Users\okkes\OneDrive\Masaüstü\Projelerim\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.SeansYonetimiFormu.resources
+C:\Users\okkes\OneDrive\Masaüstü\Projelerim\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.SinemaYonetimPaneli.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\bin\Debug\SinemaOtomasyonuProjesi.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\bin\Debug\SinemaOtomasyonuProjesi.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\bin\Debug\SinemaOtomasyonuProjesi.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.BiletSatisFormu.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.FilmYonetimiFormu.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.Form1.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.SalonYonetimiFormu.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.SeansYonetimiFormu.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.SinemaYonetimPaneli.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.csproj.CoreCompileInputs.cache
+C:\Users\sezgi\Desktop\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\bin\Debug\SinemaOtomasyonuProjesi.exe.config
+C:\Users\sezgi\Desktop\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\bin\Debug\SinemaOtomasyonuProjesi.exe
+C:\Users\sezgi\Desktop\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\bin\Debug\SinemaOtomasyonuProjesi.pdb
+C:\Users\sezgi\Desktop\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.csproj.AssemblyReference.cache
+C:\Users\sezgi\Desktop\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.BiletSatisFormu.resources
+C:\Users\sezgi\Desktop\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.FilmYonetimiFormu.resources
+C:\Users\sezgi\Desktop\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.Form1.resources
+C:\Users\sezgi\Desktop\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.Properties.Resources.resources
+C:\Users\sezgi\Desktop\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.SalonYonetimiFormu.resources
+C:\Users\sezgi\Desktop\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.SeansYonetimiFormu.resources
+C:\Users\sezgi\Desktop\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.SinemaYonetimPaneli.resources
+C:\Users\sezgi\Desktop\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.csproj.GenerateResource.cache
+C:\Users\sezgi\Desktop\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.csproj.CoreCompileInputs.cache
+C:\Users\sezgi\Desktop\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.exe
+C:\Users\sezgi\Desktop\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.pdb
+C:\Users\sezgi\Desktop\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.RaporlarFormu.resources
+C:\Users\okkes\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\bin\Debug\SinemaOtomasyonuProjesi.exe.config
+C:\Users\okkes\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\bin\Debug\SinemaOtomasyonuProjesi.exe
+C:\Users\okkes\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\bin\Debug\SinemaOtomasyonuProjesi.pdb
+C:\Users\okkes\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.csproj.AssemblyReference.cache
+C:\Users\okkes\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.BiletSatisFormu.resources
+C:\Users\okkes\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.FilmYonetimiFormu.resources
+C:\Users\okkes\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.Form1.resources
+C:\Users\okkes\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.Properties.Resources.resources
+C:\Users\okkes\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.RaporlarFormu.resources
+C:\Users\okkes\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.SalonYonetimiFormu.resources
+C:\Users\okkes\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.SeansYonetimiFormu.resources
+C:\Users\okkes\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.SinemaYonetimPaneli.resources
+C:\Users\okkes\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.csproj.GenerateResource.cache
+C:\Users\okkes\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.csproj.CoreCompileInputs.cache
+C:\Users\okkes\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.exe
+C:\Users\okkes\OneDrive\Masaüstü\Yeni klasör (3)\görsel\SinemaOtomasyonuProjesi\obj\Debug\SinemaOtomasyonuProjesi.pdb

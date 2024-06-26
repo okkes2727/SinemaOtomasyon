@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sezgi\\Desktop\\Yeni klas\u00F6r (3)\\g\u00F6rsel\\SinemaOtomasyonuProjesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB335AF8-A198-40DE-ADDF-D972CF786DB2}|SinemaOtomasyonuProjesi.csproj|c:\\users\\sezgi\\desktop\\yeni klas\u00F6r (3)\\g\u00F6rsel\\sinemaotomasyonuprojesi\\seansyonetimiformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB335AF8-A198-40DE-ADDF-D972CF786DB2}|SinemaOtomasyonuProjesi.csproj|solutionrelative:seansyonetimiformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB335AF8-A198-40DE-ADDF-D972CF786DB2}|SinemaOtomasyonuProjesi.csproj|C:\\Users\\sezgi\\Desktop\\Yeni klas\u00F6r (3)\\g\u00F6rsel\\SinemaOtomasyonuProjesi\\seansyonetimiformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB335AF8-A198-40DE-ADDF-D972CF786DB2}|SinemaOtomasyonuProjesi.csproj|solutionrelative:seansyonetimiformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeansYonetimiFormu.cs",
+              "DocumentMoniker": "C:\\Users\\sezgi\\Desktop\\Yeni klas\u00F6r (3)\\g\u00F6rsel\\SinemaOtomasyonuProjesi\\SeansYonetimiFormu.cs",
+              "RelativeDocumentMoniker": "SeansYonetimiFormu.cs",
+              "ToolTip": "C:\\Users\\sezgi\\Desktop\\Yeni klas\u00F6r (3)\\g\u00F6rsel\\SinemaOtomasyonuProjesi\\SeansYonetimiFormu.cs",
+              "RelativeToolTip": "SeansYonetimiFormu.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAawK8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:13:09.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeansYonetimiFormu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sezgi\\Desktop\\Yeni klas\u00F6r (3)\\g\u00F6rsel\\SinemaOtomasyonuProjesi\\SeansYonetimiFormu.cs",
+              "RelativeDocumentMoniker": "SeansYonetimiFormu.cs",
+              "ToolTip": "C:\\Users\\sezgi\\Desktop\\Yeni klas\u00F6r (3)\\g\u00F6rsel\\SinemaOtomasyonuProjesi\\SeansYonetimiFormu.cs [Design]",
+              "RelativeToolTip": "SeansYonetimiFormu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:06:56.929Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
